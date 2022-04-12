@@ -1,3 +1,4 @@
 1 #!/bin/bash
 2 su betty
 $ wc -l file
+su betty
